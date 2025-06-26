@@ -36,42 +36,30 @@ This project implements a secure login system that combines traditional password
 - TOTP ensures dynamic codes every 30 seconds
 - Prevents common attacks like credential stuffing, phishing, or session hijacking
 
+
+
 <h2>📸 Screenshots</h2>
 
-<table>
-  <tr>
-    <th>Login Page (Empty)</th>
-    <th>Login Page (Filled)</th>
-  </tr>
-  <tr>
-    <td><img src="Screenshots/Login.png" width="300"></td>
-    <td><img src="Screenshots/Credentials.png" width="300"></td>
-  </tr>
+<h3>📝 Register Page</h3>
+<img src="Screenshots/Register.png" width="400">
 
-  <tr>
-    <th>Register Page</th>
-    <th>QR Code Setup</th>
-  </tr>
-  <tr>
-    <td><img src="Screenshots/Register.png" width="300"></td>
-    <td><img src="Screenshots/QR.png" width="300"></td>
-  </tr>
+<h3>🔐 Login Page (Empty)</h3>
+<img src="Screenshots/Login.png" width="400">
 
-  <tr>
-    <th>Successful Login</th>
-    <th>Invalid 2FA Token</th>
-  </tr>
-  <tr>
-    <td><img src="Screenshots/Welcome.png" width="300"></td>
-    <td><img src="Screenshots/Wrong2FA.png" width="300"></td>
-  </tr>
+<h3>🔐 Login Page (Filled)</h3>
+<img src="Screenshots/Credentials.png" width="400">
 
-  <tr>
-    <th>Duo App – Code Display</th>
-    <th>Duo App – Account Setup</th>
-  </tr>
-  <tr>
-    <td><img src="Screenshots/2fa.jpg" width="300"></td>
-    <td><img src="Screenshots/DuoSetup.jpg" width="300"></td>
-  </tr>
-</table>
+<h3>📷 QR Code Setup</h3>
+<img src="Screenshots/QR.png" width="400">
+
+<h3>📲 Duo App – Account Setup</h3>
+<img src="Screenshots/DuoSetup.jpg" width="300">
+
+<h3>🔄 Duo App – Code Display</h3>
+<img src="Screenshots/2fa.jpg" width="300">
+
+<h3>✅ Successful Login</h3>
+<img src="Screenshots/Welcome.png" width="400">
+
+<h3>❌ Invalid 2FA Token</h3>
+<img src="Screenshots/Wrong2FA.png" width="400">
