@@ -39,12 +39,11 @@ This project implements a secure login system that combines traditional password
 
 
 <h2>📸 Screenshots</h2>
+<h3>🔐 Welcome Page (Empty)</h3>
+<img src="Screenshots/Login.png" width="400">
 
 <h3>📝 Register Page</h3>
 <img src="Screenshots/Register.png" width="400">
-
-<h3>🔐 Login Page (Empty)</h3>
-<img src="Screenshots/Login.png" width="400">
 
 <h3>🔐 Login Page (Filled)</h3>
 <img src="Screenshots/Credentials.png" width="400">
