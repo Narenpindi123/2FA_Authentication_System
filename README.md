@@ -38,6 +38,6 @@ This project implements a secure login system that combines traditional password
 
 ## 🖥️ Screenshots
 
-![Login Page](screenshots/Login.png)
+![Login Page](Screenshots/Login.png)
 ![QR Code Setup](screenshots/qrcode.png)
 ![2FA Verification](screenshots/2fa.png)
