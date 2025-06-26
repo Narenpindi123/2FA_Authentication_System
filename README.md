@@ -62,4 +62,5 @@ This project implements a secure login system that combines traditional password
 <img src="Screenshots/Welcome.png" width="400">
 
 <h3>❌ Invalid 2FA Token</h3>
+<p>If you enter a wrong or expired token, the system will reject it and display an error like this:</p>
 <img src="Screenshots/Wrong2FA.png" width="400">
