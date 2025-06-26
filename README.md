@@ -38,12 +38,31 @@ This project implements a secure login system that combines traditional password
 
 ## 🖥️ Screenshots
 
-![Login Page](Screenshots/Login.png)
-![Register](Screenshots/Register.png)
-![QR Code Setup](Screenshots/QR.png)
-![2FA Setup](Screenshots/DuoSetup.jpg)
-![2FA Verification](Screenshots/2fa.jpg)
-![Login Page1](Screenshots/Credentials.png)
-![Welcome](Screenshots/Welcome.png)
-/n If used Wrong 2FA then it will display like this
-![2FA wVerification](Screenshots/Wrong2FA.png)
+<h2>📸 Screenshots</h2>
+
+<table>
+  <tr>
+    <td><strong>Login</strong></td>
+    <td><strong>Register</strong></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/Login.png" width="300"></td>
+    <td><img src="screenshots/Register.png" width="300"></td>
+  </tr>
+  <tr>
+    <td><strong>QR Code Setup</strong></td>
+    <td><strong>2FA Token Entry</strong></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/QR.png" width="300"></td>
+    <td><img src="screenshots/Wrong2FA.png" width="300"></td>
+  </tr>
+  <tr>
+    <td><strong>Successful Login</strong></td>
+    <td><strong>Duo Mobile Linked</strong></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/Welcome.png" width="300"></td>
+    <td><img src="screenshots/2fa.png" width="300"></td>
+  </tr>
+</table>
