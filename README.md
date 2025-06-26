@@ -45,5 +45,5 @@ This project implements a secure login system that combines traditional password
 ![2FA Verification](Screenshots/2fa.jpg)
 ![Login Page1](Screenshots/Credentials.png)
 ![Welcome](Screenshots/Welcome.png)
-If used Wrong 2FA then it will display like this
+/n If used Wrong 2FA then it will display like this
 ![2FA Verification](Screenshots/Wrong2Fa.png)
