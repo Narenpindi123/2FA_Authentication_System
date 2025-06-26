@@ -63,6 +63,6 @@ This project implements a secure login system that combines traditional password
   </tr>
   <tr>
     <td><img src="Screenshots/Welcome.png" width="300"></td>
-    <td><img src="Screenshots/2fa.png" width="300"></td>
+    <td><img src="Screenshots/2fa.jng" width="300"></td>
   </tr>
 </table>
