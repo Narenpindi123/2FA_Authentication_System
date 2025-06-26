@@ -57,6 +57,9 @@ This project implements a secure login system that combines traditional password
 <h3>🔄 Duo App – Code Display</h3>
 <img src="Screenshots/2fa.jpg" width="300">
 
+<h3>🔑 Enter 2FA Token</h3>
+<img src="Screenshots/Enter2fa.png" width="400">
+
 <h3>✅ Successful Login</h3>
 <img src="Screenshots/Welcome.png" width="400">
 
