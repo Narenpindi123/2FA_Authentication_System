@@ -41,10 +41,3 @@ This project implements a secure login system that combines traditional password
 ![Login Page](screenshots/login.png)
 ![QR Code Setup](screenshots/qrcode.png)
 ![2FA Verification](screenshots/2fa.png)
-
-## ⚙️ Getting Started
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/yourusername/2fa-authentication-system.git
-cd 2fa-authentication-system
