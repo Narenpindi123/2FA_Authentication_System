@@ -45,14 +45,14 @@ This project implements a secure login system that combines traditional password
 <h3>📝 Register Page</h3>
 <img src="Screenshots/Register.png" width="400">
 
-<h3>🔐 Login Page (Filled)</h3>
-<img src="Screenshots/Credentials.png" width="400">
-
 <h3>📷 QR Code Setup</h3>
 <img src="Screenshots/QR.png" width="400">
 
 <h3>📲 Duo App – Account Setup</h3>
 <img src="Screenshots/DuoSetup.jpg" width="300">
+
+<h3>🔐 Login Page (Filled)</h3>
+<img src="Screenshots/Credentials.png" width="400">
 
 <h3>🔄 Duo App – Code Display</h3>
 <img src="Screenshots/2fa.jpg" width="300">
