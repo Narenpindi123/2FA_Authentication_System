@@ -42,27 +42,38 @@ This project implements a secure login system that combines traditional password
 
 <table>
   <tr>
-    <td><strong>Login</strong></td>
-    <td><strong>Register</strong></td>
+    <th>Login Page (Empty)</th>
+    <th>Login Page (Filled)</th>
   </tr>
   <tr>
-    <td><img src="Screenshots/Login.png" width="300"></td>
-    <td><img src="Screenshots/Register.png" width="300"></td>
+    <td><img src="screenshots/Login.png" width="300"></td>
+    <td><img src="screenshots/Credentials.png" width="300"></td>
+  </tr>
+
+  <tr>
+    <th>Register Page</th>
+    <th>QR Code Setup</th>
   </tr>
   <tr>
-    <td><strong>QR Code Setup</strong></td>
-    <td><strong>2FA Token Entry</strong></td>
+    <td><img src="screenshots/Register.png" width="300"></td>
+    <td><img src="screenshots/QR.png" width="300"></td>
+  </tr>
+
+  <tr>
+    <th>Successful Login</th>
+    <th>Invalid 2FA Token</th>
   </tr>
   <tr>
-    <td><img src="Screenshots/QR.png" width="300"></td>
-    <td><img src="Screenshots/Wrong2FA.png" width="300"></td>
+    <td><img src="screenshots/Welcome.png" width="300"></td>
+    <td><img src="screenshots/Wrong2FA.png" width="300"></td>
+  </tr>
+
+  <tr>
+    <th>Duo App – Code Display</th>
+    <th>Duo App – Account Setup</th>
   </tr>
   <tr>
-    <td><strong>Successful Login</strong></td>
-    <td><strong>Duo Mobile Linked</strong></td>
-  </tr>
-  <tr>
-    <td><img src="Screenshots/Welcome.png" width="300"></td>
-    <td><img src="Screenshots/2fa.jpg" width="300"></td>
+    <td><img src="screenshots/2fa.jpg" width="300"></td>
+    <td><img src="screenshots/DuoSetup.jpg" width="300"></td>
   </tr>
 </table>
