@@ -36,8 +36,6 @@ This project implements a secure login system that combines traditional password
 - TOTP ensures dynamic codes every 30 seconds
 - Prevents common attacks like credential stuffing, phishing, or session hijacking
 
-## 🖥️ Screenshots
-
 <h2>📸 Screenshots</h2>
 
 <table>
@@ -46,8 +44,8 @@ This project implements a secure login system that combines traditional password
     <th>Login Page (Filled)</th>
   </tr>
   <tr>
-    <td><img src="screenshots/Login.png" width="300"></td>
-    <td><img src="screenshots/Credentials.png" width="300"></td>
+    <td><img src="Screenshots/Login.png" width="300"></td>
+    <td><img src="Screenshots/Credentials.png" width="300"></td>
   </tr>
 
   <tr>
@@ -55,8 +53,8 @@ This project implements a secure login system that combines traditional password
     <th>QR Code Setup</th>
   </tr>
   <tr>
-    <td><img src="screenshots/Register.png" width="300"></td>
-    <td><img src="screenshots/QR.png" width="300"></td>
+    <td><img src="Screenshots/Register.png" width="300"></td>
+    <td><img src="Screenshots/QR.png" width="300"></td>
   </tr>
 
   <tr>
@@ -64,8 +62,8 @@ This project implements a secure login system that combines traditional password
     <th>Invalid 2FA Token</th>
   </tr>
   <tr>
-    <td><img src="screenshots/Welcome.png" width="300"></td>
-    <td><img src="screenshots/Wrong2FA.png" width="300"></td>
+    <td><img src="Screenshots/Welcome.png" width="300"></td>
+    <td><img src="Screenshots/Wrong2FA.png" width="300"></td>
   </tr>
 
   <tr>
@@ -73,7 +71,7 @@ This project implements a secure login system that combines traditional password
     <th>Duo App – Account Setup</th>
   </tr>
   <tr>
-    <td><img src="screenshots/2fa.jpg" width="300"></td>
-    <td><img src="screenshots/DuoSetup.jpg" width="300"></td>
+    <td><img src="Screenshots/2fa.jpg" width="300"></td>
+    <td><img src="Screenshots/DuoSetup.jpg" width="300"></td>
   </tr>
 </table>
