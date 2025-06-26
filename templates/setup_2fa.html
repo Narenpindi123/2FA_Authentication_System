@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Setup 2FA</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+  <div class="container">
+    <h2>Scan the QR Code with Authenticator</h2>
+    <img src="data:image/png;base64,{{ qr_code }}" alt="2FA QR Code">
+    <p><a href="{{ url_for('logout') }}">Logout</a></p>
+  </div>
+</body>
+</html>
