@@ -39,5 +39,11 @@ This project implements a secure login system that combines traditional password
 ## 🖥️ Screenshots
 
 ![Login Page](Screenshots/Login.png)
-![QR Code Setup](screenshots/qrcode.png)
-![2FA Verification](screenshots/2fa.png)
+![Register](Screenshots/Register.png)
+![QR Code Setup](Screenshots/QR.png)
+![2FA Setup](Screenshots/DuoSetup.jpg)
+![2FA Verification](Screenshots/2fa.jpg)
+![Login Page1](Screenshots/Credentials.png)
+![Welcome](Screenshots/Welcome.png)
+If used Wrong 2FA then it will display like this
+![2FA Verification](Screenshots/Wrong2Fa.png)
